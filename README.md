@@ -16,7 +16,10 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ### Skills learned
-1. 
+1. flex box
+2.box model
+3.responsive design
+4.accessable html 
 
 
 
